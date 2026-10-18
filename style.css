@@ -1,0 +1,28 @@
+body{
+    background-color: skyblue;
+    text-align: center;
+    
+}
+.heading{
+    color: red;
+    background-color: black;
+    font-family: arial;
+     padding: 30px;
+}
+.para{
+    color: red;
+    background-color: black;
+    font-family: arial;
+    padding: 30px;
+    font-size: larger;
+}
+.btn{
+    color: red;
+    background-color: black;
+    font-weight: 600;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-family: arial;
+    cursor: pointer;
+}
